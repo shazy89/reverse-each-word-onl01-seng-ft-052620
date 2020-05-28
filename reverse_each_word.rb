@@ -1,3 +1,9 @@
-def reverse_each_word(sentence)
-  sentence.reverse
+
+
+def my_reverse_words(my_str)
+  
+my_str.each do |i| puts i.reverse
+  
+ end
+  
 end
