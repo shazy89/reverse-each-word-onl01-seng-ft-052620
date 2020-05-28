@@ -7,3 +7,4 @@ my_str.collect do |i| print "#{i.reverse} "
  end
   
 end
+
